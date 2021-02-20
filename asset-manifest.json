@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/http//Vladant-777.github.io/React-2/static/css/main.55b940ab.chunk.css",
-    "main.js": "/http//Vladant-777.github.io/React-2/static/js/main.e56e3c6b.chunk.js",
-    "main.js.map": "/http//Vladant-777.github.io/React-2/static/js/main.e56e3c6b.chunk.js.map",
-    "runtime-main.js": "/http//Vladant-777.github.io/React-2/static/js/runtime-main.1c929f05.js",
-    "runtime-main.js.map": "/http//Vladant-777.github.io/React-2/static/js/runtime-main.1c929f05.js.map",
-    "static/js/2.1ae5856f.chunk.js": "/http//Vladant-777.github.io/React-2/static/js/2.1ae5856f.chunk.js",
-    "static/js/2.1ae5856f.chunk.js.map": "/http//Vladant-777.github.io/React-2/static/js/2.1ae5856f.chunk.js.map",
-    "static/js/3.ea8e57f0.chunk.js": "/http//Vladant-777.github.io/React-2/static/js/3.ea8e57f0.chunk.js",
-    "static/js/3.ea8e57f0.chunk.js.map": "/http//Vladant-777.github.io/React-2/static/js/3.ea8e57f0.chunk.js.map",
-    "index.html": "/http//Vladant-777.github.io/React-2/index.html",
-    "static/css/main.55b940ab.chunk.css.map": "/http//Vladant-777.github.io/React-2/static/css/main.55b940ab.chunk.css.map",
-    "static/js/2.1ae5856f.chunk.js.LICENSE.txt": "/http//Vladant-777.github.io/React-2/static/js/2.1ae5856f.chunk.js.LICENSE.txt"
+    "main.css": "/React-2/static/css/main.55b940ab.chunk.css",
+    "main.js": "/React-2/static/js/main.e56e3c6b.chunk.js",
+    "main.js.map": "/React-2/static/js/main.e56e3c6b.chunk.js.map",
+    "runtime-main.js": "/React-2/static/js/runtime-main.5e0a556c.js",
+    "runtime-main.js.map": "/React-2/static/js/runtime-main.5e0a556c.js.map",
+    "static/js/2.1ae5856f.chunk.js": "/React-2/static/js/2.1ae5856f.chunk.js",
+    "static/js/2.1ae5856f.chunk.js.map": "/React-2/static/js/2.1ae5856f.chunk.js.map",
+    "static/js/3.ea8e57f0.chunk.js": "/React-2/static/js/3.ea8e57f0.chunk.js",
+    "static/js/3.ea8e57f0.chunk.js.map": "/React-2/static/js/3.ea8e57f0.chunk.js.map",
+    "index.html": "/React-2/index.html",
+    "static/css/main.55b940ab.chunk.css.map": "/React-2/static/css/main.55b940ab.chunk.css.map",
+    "static/js/2.1ae5856f.chunk.js.LICENSE.txt": "/React-2/static/js/2.1ae5856f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c929f05.js",
+    "static/js/runtime-main.5e0a556c.js",
     "static/js/2.1ae5856f.chunk.js",
     "static/css/main.55b940ab.chunk.css",
     "static/js/main.e56e3c6b.chunk.js"
